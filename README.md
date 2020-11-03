@@ -107,10 +107,10 @@ Also, an official Tensorflow tutorial of using `tf.keras`, a high-level API to t
 ### Loading data with other machine learning libraries 
 To date, the following libraries have included `Fashion-MNIST` as a built-in dataset. Therefore, you don't need to download `Fashion-MNIST` by yourself. Just follow their API and you are ready to go.
 
-- [Apache MXNet Gluon](https://mxnet.incubator.apache.org/api/python/gluon/data.html)
+- [Apache MXNet Gluon](https://mxnet.apache.org/api/python/docs/api/gluon/data/vision/datasets/index.html#mxnet.gluon.data.vision.datasets.FashionMNIST)
 - [deeplearn.js](https://deeplearnjs.org/demos/model-builder/)
 - [Kaggle](https://www.kaggle.com/zalando-research/fashionmnist)
-- [Pytorch](http://pytorch.org/docs/master/torchvision/datasets.html#fashion-mnist)
+- [Pytorch](https://pytorch.org/docs/master/torchvision/datasets.html#fashion-mnist)
 - [Keras](https://keras.io/datasets/#fashion-mnist-database-of-fashion-articles)
 - [Edward](http://edwardlib.org/api/observations/fashion_mnist)
 - [Tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist)
@@ -200,7 +200,6 @@ The table below collects the submitted benchmarks. Note that **we haven't yet te
 - [Make a ghost wardrobe using DCGAN](https://twitter.com/spaceLenny/status/901488938023403520)
 - [fashion-mnist的gan玩具](http://kexue.fm/archives/4540/)
 - [CGAN output after 5000 steps](https://github.com/a7b23/Conditional-GAN-using-tensorflow-slim)
-- [live demo of Generative Adversarial Network model with deeplearn.js](http://cognitivechaos.com/playground/fashion-gan/)
 - [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
 
 #### Clustering
